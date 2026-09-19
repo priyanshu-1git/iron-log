@@ -4,9 +4,22 @@ A personal 8-week workout tracking application developed for Android and the web
 
 ## Project Links
 
-- 🌐 **Live Demo:** Coming soon
-- 📱 **Android APK:** Coming soon
-- 💻 **Source Code:** This repository
+- 🌐 **Live Demo:** https://iron-log-c1hi4q3n4-iron-log7.vercel.app/
+- 📱 **Android APK:** https://github.com/priyanshu-1git/iron-log/releases/tag/v1.0.0
+- 💻 **Source Code:** https://github.com/priyanshu-1git/iron-log
+
+## Installation
+
+### Web
+
+Open the [live demo](https://iron-log-c1hi4q3n4-iron-log7.vercel.app/) — no installation required. The application works in any modern browser.
+
+### Android
+
+1. Download the APK from the [GitHub Release](https://github.com/priyanshu-1git/iron-log/releases/tag/v1.0.0).
+2. Since it is installed outside the Play Store, Android may ask you to allow installation from your browser or file manager.
+3. Allow the installation when prompted.
+4. Open the installed application.
 
 ## Table of Contents
 
@@ -61,29 +74,47 @@ Both versions share the same core HTML/CSS/JavaScript tracking interface while t
 
 ## Screenshots
 
-### Weekly Tracker
+<details>
+<summary>Weekly Tracker</summary>
 
 ![Weekly Tracker](docs/screenshots/weekly-tracker.jpg)
 
-### Plan & Instructions
+</details>
+
+<details>
+<summary>Plan & Instructions</summary>
 
 ![Plan & Instructions](docs/screenshots/plan-instructions.jpg)
 
-### Body Log
+</details>
+
+<details>
+<summary>Body Log</summary>
 
 ![Body Log](docs/screenshots/body-log.jpg)
 
-### Progress Tracking
+</details>
+
+<details>
+<summary>Progress Tracking</summary>
 
 ![Progress Tracking](docs/screenshots/progress.jpg)
 
-### Backup & Export
+</details>
+
+<details>
+<summary>Backup & Export</summary>
 
 ![Backup & Export](docs/screenshots/backup-export.jpg)
 
-### Generated PDF Report
+</details>
+
+<details>
+<summary>Generated PDF Report</summary>
 
 ![Generated PDF Report](docs/screenshots/pdf-report.jpg)
+
+</details>
 
 ## Technical Stack
 
