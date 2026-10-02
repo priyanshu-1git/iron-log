@@ -12,7 +12,7 @@ A personal 8-week workout tracking application developed for Android and the web
 
 ### Web
 
-Open the [live demo](https://iron-log-c1hi4q3n4-iron-log7.vercel.app/) — no installation required. The application works in any modern browser.
+Open the [live demo](https://iron-log-web-alpha.vercel.app/) — no installation required. The application works in any modern browser.
 
 ### Android
 
